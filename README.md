@@ -1,3 +1,2 @@
-# demo
-This is my first Git Repository.
-Author -Rana Ram
+# Clock
+This is a Clock with digital clock.
